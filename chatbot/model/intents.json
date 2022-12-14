@@ -1,0 +1,31 @@
+{
+    "intents": [
+        {
+            "tag": "product_information",
+            "patterns": [
+                "What are the features of this product?",
+                "How does it compare to other products?",
+                "Where can I buy it?"
+            ],
+            "responses": [
+                "This product has the following features: ...",
+                "Compared to other products, this one has the following advantages: ...",
+                "You can buy this product at the following retailers: ..."
+            ]
+        },
+        {
+            "tag": "shipping_and_delivery",
+            "patterns": [
+                "How long will it take for my order to arrive?",
+                "Can I track my order?",
+                "What are the shipping costs?"
+            ],
+            "responses": [
+                "Typically, orders take 2-5 business days to arrive. You can track your order using the tracking number provided in your shipping confirmation email.",
+                "Yes, you can track your order using the tracking number provided in your shipping confirmation email.",
+                "Shipping costs are calculated based on the weight of your order and the destination. You can see the exact shipping cost for your order at checkout."
+            ]
+        }
+        
+    ]
+}
