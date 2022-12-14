@@ -18,6 +18,8 @@ To install these packages, run the following command:
 
 To use my chatbot app, run the following command:
 
+pip install django chatterbot chatterbot-corpus chatterbot-ui or pip install -r requirements.txt
+
 
 This will start the Django development server and launch the chatbot app in your default web browser. From there, you can start having conversations with the chatbot by typing messages into the text box and hitting enter.
 
