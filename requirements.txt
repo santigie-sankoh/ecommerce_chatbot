@@ -3,4 +3,7 @@
 
 Python==2.7
 Django==3.2
+chatterbot
+chatterbot-corpus
+chatterbot-ui
 
